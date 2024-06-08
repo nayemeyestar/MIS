@@ -1,0 +1,48 @@
+h1{
+    
+    background-color: #12516f;
+        
+    text-align: center;
+        
+    color: #c3d323;
+        
+    font-size: 88px;
+        }
+        .flex_part{
+            width: 40%;
+            margin: 15px;
+        }
+        nav{
+        
+        display: flex;
+        
+        justify-content: space-between;
+        }
+        li{
+        
+        }
+        li a{
+            
+    font-size: 30;
+        }
+        .pera{
+            
+padding: 10px;
+            
+display: grid;
+            
+background-color: oldlace;
+        }
+        p{
+
+border: 2px solid red;
+
+}
+        img{
+
+border: 2px solid;
+
+box-shadow: 4px 4px  4px;
+
+}
+        
